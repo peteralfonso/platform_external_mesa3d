@@ -63,6 +63,7 @@
  *
  * \author Ian Romanick <ian.d.romanick@intel.com>
  */
+#include <stddef.h>
 #include <cstdlib>
 #include <cstdio>
 #include <cstdarg>
